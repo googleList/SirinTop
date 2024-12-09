@@ -24,6 +24,12 @@
 /*---------------------------------------------------------------------- */
 /* [ Template ] */
 /* Global */
+.simpleParallax{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .media-container {
   position: relative;
   overflow: hidden;
